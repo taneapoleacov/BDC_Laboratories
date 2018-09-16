@@ -1,7 +1,7 @@
 # Laboratory-nr1
 SQL laboratories
 <h2>Task 1.</h2>
-       <p> I created a new database named "Home" with some given properties</>
+       <p> I created a new database named "Home" with some given properties </>
        <h1> </h1>
        <img src = "firstdb.png"/>
 <h2>Task 2.</h2>
