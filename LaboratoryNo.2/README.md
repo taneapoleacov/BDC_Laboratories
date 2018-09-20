@@ -1,4 +1,4 @@
-# Laboratory-nr1
+# Laboratory-nr2
 SQL laboratories
 <h2>Task 1.</h2>
        <p> I created a new database named "Home" with some given properties </>
