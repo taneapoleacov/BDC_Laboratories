@@ -1,6 +1,6 @@
 # Laboratory-nr3
 CREATING AND MODIFYING TABLES IN SQL SERVER MANAGEMENT STUDIO
-<br><h1>Task 1</h1><br>
+<br><h2>Task 1</h2><br>
 Which of the numbers below can be entered in a field type DECIMAL(4, 1)?
 a) 16.2; b) 116.2; c) 16.21; d) 1116.2; e) 1116.21.
 <br>
