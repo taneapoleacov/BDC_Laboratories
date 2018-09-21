@@ -7,7 +7,7 @@ a) 16.2; b) 116.2; c) 16.21; d) 1116.2; e) 1116.21.
 <p> In DECIMAL(P[,S]) data type ,parameter P represents the total number of digits that the field can contain and S represents the number of digits after decimal point. In our case the answear is <b>116.2.
 <h>Task 2<h><br>
 Let [Col1] in the table below be of type INT , and [Col2] be of type DECIMAL(2.1) 
-https://user-images.githubusercontent.com/33803222/45900675-20caee80-bde9-11e8-96d4-7a6c7300be0e.PNG
+![task2](https://user-images.githubusercontent.com/33803222/45900675-20caee80-bde9-11e8-96d4-7a6c7300be0e.PNG)
   What data type should be [Col3] if we want to process [Col1]* [Col2] ?
 <h>Solution<h>
 <h>Task 3<h><br> 
