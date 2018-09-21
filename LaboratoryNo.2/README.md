@@ -1,8 +1,9 @@
 # Laboratory-nr3
 CREATING AND MODIFYING TABLES IN SQL SERVER MANAGEMENT STUDIO
-<h>Task 1</h><br>
+<br><h>Task 1</h><br>
 Which of the numbers below can be entered in a field type DECIMAL(4, 1)?
 a) 16.2; b) 116.2; c) 16.21; d) 1116.2; e) 1116.21.
+<br>
 <h>Solution:</h>
 <p> In DECIMAL(P[,S]) data type ,parameter P represents the total number of digits that the field can contain and S represents the number of digits after decimal point. In our case the answear is <b>116.2.
 <h>Task 2<h><br>
