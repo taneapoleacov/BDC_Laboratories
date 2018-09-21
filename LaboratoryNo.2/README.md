@@ -1,4 +1,4 @@
-# Laboratory-nr2
+# Laboratory-nr3
 SQL laboratories
 <p>I have created those 5 tables with the goven properties: discipline,grupe,studenti,profesori, reusita_studenti and made the relations between them and made a database diagram.</p><br>
 <img src="digram_relaions.PNG">
