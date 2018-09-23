@@ -21,7 +21,7 @@ In case of processing the folowing expresion [Col1]*[Col2], if we consder aoly t
  ![digram_relaions](https://user-images.githubusercontent.com/33803222/45902082-ffb8cc80-bded-11e8-9d47-246256e7cdf1.PNG)
  
 <br><b>Task 4</b><br>
-Include in the respective tables of the university database the following entries:
+Include in the respective tables of database <i> universitatea</i> the following entries:
   ![tabel_discipline](https://user-images.githubusercontent.com/33803222/45902092-0a736180-bdee-11e8-808c-5259a4841b5b.PNG)
 ![tabel_grupe](https://user-images.githubusercontent.com/33803222/45902104-119a6f80-bdee-11e8-81cc-0e2800f5f484.PNG)
 
