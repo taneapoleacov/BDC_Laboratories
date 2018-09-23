@@ -12,7 +12,8 @@ Let [Col1] in the table below be of type INT , and [Col2] be of type DECIMAL(2.1
 ![task2](https://user-images.githubusercontent.com/33803222/45902062-f3347400-bded-11e8-8d65-5eb362dbf0a2.PNG)
 
   <br>What data type should be [Col3] if we want to process [Col1]* [Col2] ?
-<br><b>Solution</b>
+<br><b>Solution</b><br>
+In case of processing the folowing expresion [Col1]*[Col2], if we consder aoly those 4 numbers, than [Col3] should be of type DECIMAL(2,1). If we take into consideration the maximul valiues of those data types, then [Col3] should be of type DECIMAL(12,1), because max of INT is 2.147.483.647 and max of DECIMAL(2,1)is 9.9.So,after computation we obtan a value equal to 2 126 008 810 5.3.
 <br><b>Task 3</b><br> 
   Create a database named <i>universitatea</i> with default properties. Within this data baze, create 5 tables: <i>discipline, grupe, profesori, studenti, reusita_studenti</i>.
 <br><b>Solution:</b><br>
