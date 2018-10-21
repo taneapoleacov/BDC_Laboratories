@@ -1,5 +1,5 @@
 # Laboratory-nr4
-<h1>Executarea interogarilor asupra bzei de date <b>universitatea</b><h1>
+<h1>Executarea interogarilor asupra bzei de date <b>universitatea</b></h1>
 <br><b>Exercise No. 18</b><br>
 
 Display the first names and surnames of the teachers, who have only taught disciplines with an hourly load of less than 60 hours.
