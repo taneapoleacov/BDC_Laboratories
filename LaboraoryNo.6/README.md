@@ -70,7 +70,7 @@ lectie #3 (Ora ='13:00', Disciplina ='Baze de date', Profesor = 'Micu Elena')
 
 
 ## Exercitiu Nr.8
-Sa se scrie interogarile de creare a indec~ilor asupra tabelelor din baza de date universitatea
+Sa se scrie interogarile de creare a indecșilor asupra tabelelor din baza de date universitatea
 pentru a asigura o performanta sporita la executarea interogarilor SELECT din Lucrarea
 practica 4. Rezultatele optimizarii sa fie analizate in baza planurilor de executie, pana la ~i
 dupa crearea indec~ilor.
