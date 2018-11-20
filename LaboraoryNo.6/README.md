@@ -4,12 +4,14 @@ Topic:CREAREA TABELELOR Ș1 INDECȘILOR
 Sa se scrie o instructiune T-SQL, care ar popula co Joana Adresa _ Postala _ Profesor din tabelul
 profesori cu valoarea 'mun. Chisinau', unde adresa este necunoscuta.
 
+![ex1_lab6](https://user-images.githubusercontent.com/33803222/48761616-c39ccd80-ecb1-11e8-94b4-ebeeb9f5d7a5.PNG)
 
 ## Exercitiu Nr.2
 Sa se modifice schema tabelului grupe, ca sa corespunda urmatoarelor cerinte:
 a) Campul Cod_ Grupa sa accepte numai valorile unice ~i sa nu accepte valori necunoscute.
 b) Sa se tina cont ca cheie primarii, deja, este definitii asupra coloanei Id_ Grupa.
 
+![ex2a_lab6](https://user-images.githubusercontent.com/33803222/48761617-c5ff2780-ecb1-11e8-93b7-661aaa620d72.PNG)
 
 ## Exercitiu Nr.3
 La tabelul grupe, sa se adauge 2 coloane noi Sef_grupa și Prof_Indrumator, ambele de tip
@@ -24,11 +26,15 @@ poate fi illdrumator la mai multe grupe.
 c) Sii se scrie instructiunile ALTER, SELECT, UPDATE necesare pentru crearea coloanelor
 in tabelul grupe, pentru selectarea candidatilor și inserarea datelor .
 
+![ex3_lab6](https://user-images.githubusercontent.com/33803222/48761620-c8618180-ecb1-11e8-85d2-3f89d6c4e4de.PNG)
 
+![ex3b_lab6](https://user-images.githubusercontent.com/33803222/48761624-cac3db80-ecb1-11e8-812a-4ce498b43ad9.PNG)
 
 ## Exercitiu Nr.4
 Sa se scrie o instructiune T-SQL, care ar mari toate notele de evaluare șefilor de grupe cu un
 punct. Nota maximala (10) nu poate fi miirita.
+
+![ex4_lab6](https://user-images.githubusercontent.com/33803222/48761742-11193a80-ecb2-11e8-8dd4-058dc29a3349.PNG)
 
 ## Exercitiu Nr.5
 Sa se creeze un tabel profesori_new, care include urmatoarele coloane: Id_Profesor,
@@ -50,6 +56,8 @@ in coloana Localitate sii fie inserata doar informatia despre denumirea localiti
 coloana-sursa Adresa_Postala_Profesor. in coloana Adresa_l, doar denumirea striizii. in
 coloanaAdresa_2, sii se piistreze numiirul casei ~i (posibil) a apartamentului.
 
+![ex5_lab6](https://user-images.githubusercontent.com/33803222/48761744-12e2fe00-ecb2-11e8-88b8-7005bebdcf6d.PNG)
+
 ## Exercitiu Nr.6
 Sa se insereze datele in tabelul orarul pentru Grupa= 'CIBJ 71' (Id_ Grupa= 1) pentru ziua de
 luni. Toate lectiile vor avea loc ill blocul de studii 'B'. Mai jos, sunt prezentate detaliile de
@@ -57,6 +65,8 @@ inserare:
 (ld_Disciplina = 107, Id_Profesor= 101, Ora ='08:00', Auditoriu = 202);
 (Id_Disciplina = 108, Id_Profesor= 101, Ora ='11:30', Auditoriu = 501);
 (ld_Disciplina = 119, Id_Profesor= 117, Ora ='13:00', Auditoriu = 501);
+
+![ex5b_lab6](https://user-images.githubusercontent.com/33803222/48761746-14142b00-ecb2-11e8-9c7f-380079fd5835.PNG)
 
 ## Exercitiu Nr.7
 Sii se scrie expresiile T-SQL necesare pentru a popula tabelul orarul pentru grupa INFl 71 ,
@@ -67,7 +77,7 @@ lectie #1 (Ora ='08:00', Disciplina = 'Structuri de date si algoritmi', Profesor
 lectie #2 (Ora ='11 :30', Disciplina = 'Programe aplicative', Profesor ='Mircea Sorin')
 lectie #3 (Ora ='13:00', Disciplina ='Baze de date', Profesor = 'Micu Elena')
 
-
+![ex6_lab6](https://user-images.githubusercontent.com/33803222/48761752-15ddee80-ecb2-11e8-95cb-93a134090667.PNG)
 
 ## Exercitiu Nr.8
 Sa se scrie interogarile de creare a indecșilor asupra tabelelor din baza de date universitatea
