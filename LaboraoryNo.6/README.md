@@ -61,7 +61,6 @@ inserare:
 ## Exercitiu Nr.7
 Sii se scrie expresiile T-SQL necesare pentru a popula tabelul orarul pentru grupa INFl 71 ,
 ziua de luni.
-Crearea tabelelor ~i indec~ilor
 Datele necesare pentru inserare trebuie sa fie colectate cu ajutorul instructiunii/instructiunilor
 SELECT ~i introduse in tabelul-destinatie, ~tiind ca:
 lectie #1 (Ora ='08:00', Disciplina = 'Structuri de date si algoritmi', Profesor ='Bivol Ion')
