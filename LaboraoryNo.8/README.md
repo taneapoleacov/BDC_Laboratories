@@ -6,6 +6,8 @@ Sa se creeze doua viziuni in baza interogarilor formulate in doua exercitii indi
 Designer.
 
 
+![ex1b_la8](https://user-images.githubusercontent.com/33803222/48831873-776c8e80-ed80-11e8-8cc2-5bd2ac2794f6.PNG)
+
 ## Exerctiu Nr.2
 Sa se scrie cate un exemplu de instructiuni INSERT, UPDATE, DELETE asupra viziunilor
 create. Sa se adauge comentariile respective referitoare la rezultatele executarii acestor
