@@ -5,6 +5,8 @@ Sa se creeze doua viziuni in baza interogarilor formulate in doua exercitii indi
 4. Prima viziune sa fie construita in Editorul de interogari, iar a doua, utilizand View
 Designer.
 
+![ex1_lab8](https://user-images.githubusercontent.com/33803222/48982705-c6068980-f0ee-11e8-809c-1b9f1aeecd94.PNG)
+
 
 ![ex1b_la8](https://user-images.githubusercontent.com/33803222/48831873-776c8e80-ed80-11e8-8cc2-5bd2ac2794f6.PNG)
 
