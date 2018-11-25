@@ -24,7 +24,7 @@ mesaj de avertizare.
 
 ## Exerctiul Nr.5
 Sa se creeze o procedura stocata care ar forma o lista cu primii 3 cei mai buni studenti la o
-disciplina, ~i acestor studenti sa le fie marita nota la examenul final cu un punct (nota
+disciplina, și acestor studenti sa le fie marita nota la examenul final cu un punct (nota
 maximala posibila este 10). in calitate de parametru de intrare, va servi denumirea disciplinei.
 Procedura sa returneze urmatoarele campuri: Cod_ Grupa, Nume_Prenume_Student,
 Disciplina, Nota Veche, Nota Noua.
@@ -39,14 +39,14 @@ Sa se scrie functia care ar calcula varsta studentului. Sa se defineasca urmator
 functiei: <nume Juncfie>(<Data _ Nastere _Student>).
 
 ## Exerctiul Nr.8
-Sa se creeze o functie definita de utilizator, care ar returna datele referitoare la reW?ita unui
-student. Se define~te urmatorul format al functiei: <nume Juncfie>
-(<Nume_Prenume_Student>). Sa fie afi~at tabelul cu urmatoarele campuri:
+Sa se creeze o functie definita de utilizator, care ar returna datele referitoare la reusita unui
+student. Se definește urmatorul format al functiei: <nume Juncfie>
+(<Nume_Prenume_Student>). Sa fie afișat tabelul cu urmatoarele campuri:
 Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.
 
 ## Exerctiul Nr.9
-Se cere realizarea unei functii definite de utilizator, care ar gasi eel mai sarguincios sau eel
-mai slab student dintr-o grupa. Se define~te urmatorul format al functiei: <numeJuncfie>
+Se cere realizarea unei functii definite de utilizator, care ar gasi eel mai sarguincios sau cel
+mai slab student dintr-o grupa. Se definește urmatorul format al functiei: <numeJuncfie>
 (<Cod_ Grupa>, <is_good>). Parametrul <is_good> poate accepta valorile "sarguincios" sau
 "slab", respectiv. Functia sa returneze un tabel cu urmatoarele campuri Grupa,
 Nume_Prenume_Student, Nota Medie , is_good. Nota Medie sa fie cu precizie de 2
