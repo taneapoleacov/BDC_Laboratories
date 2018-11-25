@@ -5,7 +5,7 @@ Sa se creeze doua viziuni in baza interogarilor formulate in doua exercitii indi
 4. Prima viziune sa fie construita in Editorul de interogari, iar a doua, utilizand View
 Designer.
 
-![ex1_lab8](https://user-images.githubusercontent.com/33803222/48982705-c6068980-f0ee-11e8-809c-1b9f1aeecd94.PNG)
+![ex1_lab8](https://user-images.githubusercontent.com/33803222/48983197-8478dd00-f0f4-11e8-9c0a-21e73fa103a3.PNG)
 
 
 ![ex1b_la8](https://user-images.githubusercontent.com/33803222/48831873-776c8e80-ed80-11e8-8cc2-5bd2ac2794f6.PNG)
@@ -14,6 +14,12 @@ Designer.
 Sa se scrie cate un exemplu de instructiuni INSERT, UPDATE, DELETE asupra viziunilor
 create. Sa se adauge comentariile respective referitoare la rezultatele executarii acestor
 instructiuni.
+
+![ex2_lab8](https://user-images.githubusercontent.com/33803222/48983205-96f31680-f0f4-11e8-8eb6-ac4dd6527541.PNG)
+
+![ex2b_lab8](https://user-images.githubusercontent.com/33803222/48983207-99557080-f0f4-11e8-802c-ee877a313451.PNG)
+
+![ex2c_lab8](https://user-images.githubusercontent.com/33803222/48983209-9a869d80-f0f4-11e8-8ed3-7039bd1aa885.PNG)
 
 ## Exerctiu Nr.3
 Sa se scrie instructiunile SQL care ar modifica viziunile create (in exercitiul 1) in șa fel, incat
