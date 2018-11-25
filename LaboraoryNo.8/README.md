@@ -44,6 +44,9 @@ Sa se scrie instructiunile de testare a proprietatilor noi definite.
 Sa se rescrie 2 interogari formulate in exercitiile din capitolul 4, in șa fel. incat interogarile
 imbricate sa fie redate sub forma expresiilor CTE.
 
+![ex5a_lab8](https://user-images.githubusercontent.com/33803222/48984870-17704200-f10a-11e8-8090-f04381b5d5bc.PNG)
+
+
 ## Exerctiu Nr.6
 Se considera un graf orientat, precum eel din figura de mai jos și fie se dore~te parcursa calea
 de la nodul id = 3 la nodul unde id = 0. Sa se faca reprezentarea grafului orientat in forma de
