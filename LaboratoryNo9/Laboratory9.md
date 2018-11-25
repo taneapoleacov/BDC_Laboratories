@@ -18,7 +18,7 @@ de evaluare sa fie inserate ca NULL.
 ## Exerctiul Nr.4
 Fie ca un profesor se elibereaza din functie la mijlocul semestrului. Sa se creeze o procedura
 stocata care ar reatribui inregistrarile din tabelul studenti_reusita unui alt profesor. Parametri
-de intrare: numele ~i prenumele profesorului vechi, numele ~i prenumele profesorului nou,
+de intrare: numele și prenumele profesorului vechi, numele și prenumele profesorului nou,
 disciplina. in cazul in care datele inserate sunt incorecte sau incomplete, sa se afi~eze un
 mesaj de avertizare.
 
