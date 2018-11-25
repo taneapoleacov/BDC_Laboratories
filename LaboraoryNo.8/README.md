@@ -26,8 +26,19 @@ Sa se scrie instructiunile SQL care ar modifica viziunile create (in exercitiul 
 sa nu fie posibila modificarea sau ștergerea tabelelor pe care acestea sunt definite și viziunile
 sa nu accepte operatiuni DML, daca conditiile clauzei WHERE nu sunt satisfacute.
 
+![ex3a_lab8](https://user-images.githubusercontent.com/33803222/48984198-7e3d2d80-f101-11e8-8cdc-ae2022b3872d.PNG)
+
+
+![ex3b_lab8](https://user-images.githubusercontent.com/33803222/48984199-8006f100-f101-11e8-89ea-bd2e5f03bdbe.PNG)
+
+
 ## Exerctiu Nr.4
 Sa se scrie instructiunile de testare a proprietatilor noi definite.
+![ex4a_lab8](https://user-images.githubusercontent.com/33803222/48984205-8f863a00-f101-11e8-8ae9-b8c1f54720b7.PNG)
+
+
+![ex4b_lab8](https://user-images.githubusercontent.com/33803222/48984206-90b76700-f101-11e8-9cb5-590a122553e7.PNG)
+
 
 ## Exerctiu Nr.5
 Sa se rescrie 2 interogari formulate in exercitiile din capitolul 4, in șa fel. incat interogarile
