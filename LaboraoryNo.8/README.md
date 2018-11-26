@@ -54,6 +54,10 @@ expresie-tabel recursiv.<br>
 Sa se observe instructiunea de dupa UNION ALL a membrului recursiv, precum și partea de
 pana la UNION ALL reprezentata de membrul-ancora.
 
+![ex6_exemplu_lab8](https://user-images.githubusercontent.com/33803222/48997177-bb340f00-f157-11e8-9598-fbcd94be6943.PNG)
+
+
+
 
 
 
