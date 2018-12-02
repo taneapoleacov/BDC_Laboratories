@@ -13,7 +13,7 @@ Sa se creeze o procedura stocata, care nu are niciun parametru de intrare și po
 parametru de ieșire. Parametrul de ieșire trebuie sa returneze numarul de studenti, care nu au
 sustinut cel putin o forma de evaluare (nota mai mica de 5 sau valoare NULL).
 
-
+![ex2_lab9](https://user-images.githubusercontent.com/33803222/49340134-67886080-f644-11e8-98bf-2c52223bd0a3.PNG)
 
 ## Exerctiul Nr.3
 Sa se creeze o procedura stocata, care ar insera in baza de date informatii despre un student
