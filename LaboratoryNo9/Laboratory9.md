@@ -4,10 +4,14 @@ PROCEDURI STOCATE ȘI FUNCTII DEFINITE DE UTILIZATOR
 Sa se creeze proceduri stocate in baza exercitiilor (2 exercitii) din capitolul 4. Parametrii de
 intrare trebuie sa corespunda criteriilor din clauzele WHERE ale exercitiilor respective.
 
+![ex1aexec_lab9](https://user-images.githubusercontent.com/33803222/49339080-e1185280-f634-11e8-90f1-385caf2dd2d0.PNG)
+
 ## Exerctiul Nr.2
 Sa se creeze o procedura stocata, care nu are niciun parametru de intrare și poseda un
 parametru de ieșire. Parametrul de ieșire trebuie sa returneze numarul de studenti, care nu au
 sustinut cel putin o forma de evaluare (nota mai mica de 5 sau valoare NULL).
+
+![ex1bexec_lab9](https://user-images.githubusercontent.com/33803222/49339081-e2e21600-f634-11e8-95b0-67637c212460.PNG)
 
 ## Exerctiul Nr.3
 Sa se creeze o procedura stocata, care ar insera in baza de date informatii despre un student
