@@ -21,6 +21,12 @@ nou. in calitate de parametri de intrare sa serveasca datele personale ale stude
 Cod_ Grupa. Sa se genereze toate intrarile-cheie necesare in tabelul studenti_reusita. Notele
 de evaluare sa fie inserate ca NULL.
 
+![ex3a_lab9](https://user-images.githubusercontent.com/33803222/49340675-14b2a700-f64c-11e8-8900-5a522299f48a.PNG)
+
+![ex3b_lab9](https://user-images.githubusercontent.com/33803222/49340677-17150100-f64c-11e8-8ebd-c208068811f3.PNG)
+
+![ex3c_lab9](https://user-images.githubusercontent.com/33803222/49340678-19775b00-f64c-11e8-9180-d37161a741e8.PNG)
+
 ## Exerctiul Nr.4
 Fie ca un profesor se elibereaza din functie la mijlocul semestrului. Sa se creeze o procedura
 stocata care ar reatribui inregistrarile din tabelul studenti_reusita unui alt profesor. Parametri
