@@ -34,6 +34,12 @@ de intrare: numele și prenumele profesorului vechi, numele și prenumele profes
 disciplina. in cazul in care datele inserate sunt incorecte sau incomplete, sa se afi~eze un
 mesaj de avertizare.
 
+![ex4a_lab9](https://user-images.githubusercontent.com/33803222/49454065-1667a080-f7ed-11e8-801d-9435d42c24ea.PNG)
+
+![ex4b_lab9](https://user-images.githubusercontent.com/33803222/49454072-18316400-f7ed-11e8-91a0-710726f4a02a.PNG)
+
+![ex4c_lab9](https://user-images.githubusercontent.com/33803222/49454076-19fb2780-f7ed-11e8-9de0-ec988349a91e.PNG)
+
 ## Exerctiul Nr.5
 Sa se creeze o procedura stocata care ar forma o lista cu primii 3 cei mai buni studenti la o
 disciplina, și acestor studenti sa le fie marita nota la examenul final cu un punct (nota
@@ -41,10 +47,16 @@ maximala posibila este 10). in calitate de parametru de intrare, va servi denumi
 Procedura sa returneze urmatoarele campuri: Cod_ Grupa, Nume_Prenume_Student,
 Disciplina, Nota Veche, Nota Noua.
 
+
+
 ## Exerctiul Nr.6
 Sa se creeze functii definite de utilizator in baza exercitiilor (2 exercitii) din capitolul 4.
 Parametrii de intrare trebuie sa corespunda criteriilor din clauzele WHERE ale exercitiilor
 respective.
+
+![ex6a_lab9](https://user-images.githubusercontent.com/33803222/49473959-192dba00-f81c-11e8-80fa-77a4c6589d0d.PNG)
+
+![ex6b_lab9](https://user-images.githubusercontent.com/33803222/49473961-1b901400-f81c-11e8-8a78-f1e7e5689eac.PNG)
 
 ## Exerctiul Nr.7
 Sa se scrie functia care ar calcula varsta studentului. Sa se defineasca urmatorul format al
