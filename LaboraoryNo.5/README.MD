@@ -24,3 +24,6 @@ a studentului la primul test al disciplinei Baze de date, folosind structura de 
 <h3> Modificati exercitiile din sarcinile 1 si 2 pentru a include procesarea erorilor cu TRY si CATCH, si RAISERRROR </h3>
 
 ![ex4_lab5](https://user-images.githubusercontent.com/33803222/47732764-8c696c80-dc6f-11e8-8d80-ed4155f2cb3f.PNG)
+
+![ex4b_lab5](https://user-images.githubusercontent.com/33803222/49696031-614a3500-fbac-11e8-8a1a-f7f3a11bfb6a.PNG)
+
