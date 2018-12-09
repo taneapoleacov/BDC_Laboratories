@@ -17,9 +17,18 @@ instructiuni.
 
 ![ex2_lab8](https://user-images.githubusercontent.com/33803222/48983205-96f31680-f0f4-11e8-8eb6-ac4dd6527541.PNG)
 
+La executia viziunii pein intermediul instructiunii de actualizare a fost afisata o eroare deoarece viziunea
+creata de mine este pe bza mai multor tabele ceea ce face ca eroarea sa apara. Asfel nu pot intreprinde actiuni 
+cu modificareaviziunii, de exemplu inserarea tuplurilor, actualizarea unor rinduri si stergerea lor din viziune. 
+Numai viziunile create pe baza de un singur tabel pot fi prelucrate si modificate.
+
 ![ex2b_lab8](https://user-images.githubusercontent.com/33803222/48983207-99557080-f0f4-11e8-802c-ee877a313451.PNG)
 
+Cu putem vedea, instructiunea isert tot nu poate fi aplicata, unica solutie fiind inserarea tuplurilor in tabelul de baza la care nu avem acces.
+
 ![ex2c_lab8](https://user-images.githubusercontent.com/33803222/48983209-9a869d80-f0f4-11e8-8ed3-7039bd1aa885.PNG)
+
+Same thing happens with delete..
 
 ## Exerctiu Nr.3
 Sa se scrie instructiunile SQL care ar modifica viziunile create (in exercitiul 1) in șa fel, incat
@@ -56,6 +65,7 @@ pana la UNION ALL reprezentata de membrul-ancora.
 
 ![ex6_exemplu_lab8](https://user-images.githubusercontent.com/33803222/48997177-bb340f00-f157-11e8-9598-fbcd94be6943.PNG)
 
+![ex6_lab8](https://user-images.githubusercontent.com/33803222/49703137-f3ccf180-fc09-11e8-9aef-2f224b1e1146.PNG)
 
 
 
