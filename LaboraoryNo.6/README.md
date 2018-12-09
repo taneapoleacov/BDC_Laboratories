@@ -58,6 +58,8 @@ coloanaAdresa_2, sii se piistreze numiirul casei ~i (posibil) a apartamentului.
 
 ![ex5_lab6](https://user-images.githubusercontent.com/33803222/48761744-12e2fe00-ecb2-11e8-88b8-7005bebdcf6d.PNG)
 
+![ex5b_lab6](https://user-images.githubusercontent.com/33803222/48761746-14142b00-ecb2-11e8-9c7f-380079fd5835.PNG)
+
 ## Exercitiu Nr.6
 Sa se insereze datele in tabelul orarul pentru Grupa= 'CIBJ 71' (Id_ Grupa= 1) pentru ziua de
 luni. Toate lectiile vor avea loc ill blocul de studii 'B'. Mai jos, sunt prezentate detaliile de
@@ -66,7 +68,7 @@ inserare:
 (Id_Disciplina = 108, Id_Profesor= 101, Ora ='11:30', Auditoriu = 501);
 (ld_Disciplina = 119, Id_Profesor= 117, Ora ='13:00', Auditoriu = 501);
 
-![ex5b_lab6](https://user-images.githubusercontent.com/33803222/48761746-14142b00-ecb2-11e8-9c7f-380079fd5835.PNG)
+![ex6_lab6](https://user-images.githubusercontent.com/33803222/48761752-15ddee80-ecb2-11e8-95cb-93a134090667.PNG)
 
 ## Exercitiu Nr.7
 Sii se scrie expresiile T-SQL necesare pentru a popula tabelul orarul pentru grupa INFl 71 ,
@@ -77,15 +79,8 @@ lectie #1 (Ora ='08:00', Disciplina = 'Structuri de date si algoritmi', Profesor
 lectie #2 (Ora ='11 :30', Disciplina = 'Programe aplicative', Profesor ='Mircea Sorin')
 lectie #3 (Ora ='13:00', Disciplina ='Baze de date', Profesor = 'Micu Elena')
 
-![ex6_lab6](https://user-images.githubusercontent.com/33803222/48761752-15ddee80-ecb2-11e8-95cb-93a134090667.PNG)
+![ex7_lab6](https://user-images.githubusercontent.com/33803222/49696210-49c07b80-fbaf-11e8-829b-46d31eecabb4.PNG)
 
-## Exercitiu Nr.8
-Sa se scrie interogarile de creare a indecșilor asupra tabelelor din baza de date universitatea
-pentru a asigura o performanta sporita la executarea interogarilor SELECT din Lucrarea
-practica 4. Rezultatele optimizarii sa fie analizate in baza planurilor de executie, pana la ~i
-dupa crearea indec~ilor.
-Indec~ii nou-creati sa fie plasati fizic in grupul de fi~iere userdatafgroupl (Crearea $i
-intrefinerea bazei de date - sectiunea 2.2.2)
 
 
 
