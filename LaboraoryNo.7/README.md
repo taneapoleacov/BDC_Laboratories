@@ -56,6 +56,8 @@ fost mutate in scheme noi.
 
 ![ex7_lab7](https://user-images.githubusercontent.com/33803222/48760220-fcd33e80-ecad-11e8-9a28-12a87785ca7a.PNG)
 
+![exa](https://user-images.githubusercontent.com/33803222/49697227-73809f00-fbbd-11e8-8661-0a4f0f3c5308.PNG)
+
 ## Exercise No.8
 Creati sinonimele respective pentru a simplifica interogarile construite in exercitiul precedent
 și reformulati interogarile, folosind sinonimele create.
@@ -63,6 +65,9 @@ Creati sinonimele respective pentru a simplifica interogarile construite in exer
 ![ex8a_lab7](https://user-images.githubusercontent.com/33803222/48760278-2c824680-ecae-11e8-91e4-ede007a99a7e.PNG)
 
 ![ex8b_lab7](https://user-images.githubusercontent.com/33803222/48760289-32782780-ecae-11e8-8618-41636690dc0f.PNG)
+
+![exb](https://user-images.githubusercontent.com/33803222/49697228-754a6280-fbbd-11e8-910d-e01dfbd9d992.PNG)
+
 
 
 
