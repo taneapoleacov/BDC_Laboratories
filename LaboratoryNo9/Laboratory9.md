@@ -67,6 +67,8 @@ Sa se creeze o functie definita de utilizator, care ar returna datele referitoar
 student. Se definește urmatorul format al functiei: <nume Juncfie>
 (<Nume_Prenume_Student>). Sa fie afișat tabelul cu urmatoarele campuri:
 Nume_Prenume_Student, Disticplina, Nota, Data_Evaluare.
+  
+![ex8_lab9](https://user-images.githubusercontent.com/33803222/49734916-6da6be80-fc8e-11e8-8809-4430f26ebbfd.PNG)
 
 ## Exerctiul Nr.9
 Se cere realizarea unei functii definite de utilizator, care ar gasi eel mai sarguincios sau cel
@@ -75,5 +77,8 @@ mai slab student dintr-o grupa. Se definește urmatorul format al functiei: <num
 "slab", respectiv. Functia sa returneze un tabel cu urmatoarele campuri Grupa,
 Nume_Prenume_Student, Nota Medie , is_good. Nota Medie sa fie cu precizie de 2
 zecimale.
+  
+![ex9_lab9](https://user-images.githubusercontent.com/33803222/49734922-70a1af00-fc8e-11e8-8559-4355f375c7a5.PNG)
+
 
 
