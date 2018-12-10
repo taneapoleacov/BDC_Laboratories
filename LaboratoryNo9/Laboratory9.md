@@ -47,7 +47,7 @@ maximala posibila este 10). in calitate de parametru de intrare, va servi denumi
 Procedura sa returneze urmatoarele campuri: Cod_ Grupa, Nume_Prenume_Student,
 Disciplina, Nota Veche, Nota Noua.
 
-
+![ex5_lab9](https://user-images.githubusercontent.com/33803222/49739068-a4ce9d00-fc99-11e8-981d-39d41541fe98.PNG)
 
 ## Exerctiul Nr.6
 Sa se creeze functii definite de utilizator in baza exercitiilor (2 exercitii) din capitolul 4.
@@ -61,6 +61,8 @@ respective.
 ## Exerctiul Nr.7
 Sa se scrie functia care ar calcula varsta studentului. Sa se defineasca urmatorul format al
 functiei: <nume Juncfie>(<Data _ Nastere _Student>).
+  
+![ex7_lab9](https://user-images.githubusercontent.com/33803222/49739075-a8faba80-fc99-11e8-89f0-2235597e9884.PNG)
 
 ## Exerctiul Nr.8
 Sa se creeze o functie definita de utilizator, care ar returna datele referitoare la reusita unui
